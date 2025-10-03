@@ -5,7 +5,7 @@
 * 1 cup unsalted butter, softened
 * 1/2 cup white sugar
 * 1 1/2 cups brown sugar (packed)
-* 3 large eggs
+* 2 large eggs
 * 2 tsp vanilla extract
 * 2 1/2 cups all-purpose flour
 * 1 tsp baking soda
@@ -14,7 +14,7 @@
 
 ## Directions
 
-1. Preheat oven to 120°F (48.8889°C). Line baking sheets.
+1. Preheat oven to 360°F (182.222°C). Line baking sheets.
 2. Cream butter and sugars until fluffy.
 3. Beat in eggs one at a time, then vanilla.
 4. Whisk flour, baking soda, and salt; mix into wet just until combined.
